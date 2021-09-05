@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
  
-int isLeapYear( int year );        /* True if leap year */
-int leapYears( int year );         /* The number of leap year */
-int todayOf( int y, int m, int d); /* The number of days since the beginning of the year */
-long days( int y, int m, int d);   /* Total number of days */
-void calendar(int y, int m);       /* display calendar at m y */
+int isLeapYear( int year );        
+int leapYears( int year );        
+int todayOf( int y, int m, int d); 
+long days( int y, int m, int d);   
+void calendar(int y, int m);       
 int getDayNumber(int d,int m,int y);
 char *getName(int day);
  
@@ -173,13 +173,13 @@ void calendar(int y, int m){
     }
 }
  
-int getDayNumber(int d, int m, int y){ //retuns the day number
+int getDayNumber(int d, int m, int y){ 
     static int t[] = {0, 3, 2, 5, 0, 3, 5, 1, 4, 6, 2, 4};
     y -= m < 3;
     return (y + y/4 - y/100 + y/400 + t[m-1] + d) % 7;
 }
  
-char *getName(int day){ //returns the name of the day
+char *getName(int day){ 
    switch(day){
       case 0 :return("Sunday");
       case 1 :return("Monday");
