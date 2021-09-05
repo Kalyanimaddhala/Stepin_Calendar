@@ -106,7 +106,7 @@ void calendar(int y, int m){
     Note* notes, note;
     int len, j, hasNote = 0;
     char choice;
-    const char NameOfMonth[] = { NULL/*dummp/,
+    const char NameOfMonth[] = { NULL,
         "January", "February", "March", "April", "May", "June",
         "July", "August", "September", "October", "November", "December"
     };
