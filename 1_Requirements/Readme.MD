@@ -20,7 +20,7 @@ A Calendar Application In C provide the data starting from the late 1600’s. Yo
 
 ## SWOT Analysis
 ## Strengths 
- strengths included working with a monochromatic color palette, sans serif type, and traditional grid structures. My work tends to be typographically heavy structurally simple. This calendar was intended to be a wall calendar that would last for a number of years and conserve paper. Each white square is a pocket that holds a removable slip of paper. The orange denotes the details of the particular day. For example, the first calendar shows that it is Tuesday, July 1, 2014. 
+ strengths included working with a monochromatic color palette, sans serif type, and traditional grid structures. My work tends to be typographically heavy structurally simple. This calendar was intended to be a wall calendar that would last for a number of years and conserve paper. Each white square is a pocket that holds a removable slip of paper. The orange denotes the details of the particular day.  
 ## Weaknesses
 Design weaknesses included working with a complex color palette, serif or decorative type, and non-traditional grid structures. Additionally, I wanted to make sure that my typographical treatments clearly supported the intention of the calendar.
 ## Opportunities
