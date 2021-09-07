@@ -40,3 +40,11 @@ There are numerous dubious websites that contain deceptive advertisements, deman
 | :--: | :---: | :----: |
 | HR01 | year | Implemented |
 | HR02 | leapyear | Implemented |
+
+## Low level Requirements
+| ID | DESCRIPTION | STATUS(IMPLENTED/FAILURE) |
+| :--: | :---: | :----: |
+| LR01 | find a day | Implemented |
+| LR02 | Calendar of a month | Implemented |
+| LR03 | Add note | Implemented |
+| LR04 | Exit | Implemented |
