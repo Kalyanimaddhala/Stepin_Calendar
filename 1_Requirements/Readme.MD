@@ -35,3 +35,8 @@ Range selection - select dates in a range. The design is entirely up to you.
  Ability to scroll to any month by simply using the date.
  ## Threats
 There are numerous dubious websites that contain deceptive advertisements, demand permission to show notifications, and display deceptive pop-up windows and other intrusive content that should not be clicked. Furthermore, many people have recently noticed that unwanted events are added to the Calendar application on their mobile Apple devices. Research shows that these events are usually added after clicking pop-up windows, notifications, etc., whilst trying to close them. Once the Calendar app has the unwanted events added, it starts to display deceptive notifications designed to open various untrusted websites.
+## High level Requirements
+| ID | DESCRIPTION | STATUS(IMPLEMENTED/FAILURE) |
+| :--: | :---: | :----: |
+| HR01 | year | Implemented |
+| HR02 | leapyear | Implemented |
