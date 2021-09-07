@@ -13,3 +13,15 @@
 | L_02 | Calendar of a month | 05 2021 | may | may | Requirement based |
 | L_03 | Add note | 18-05-1997 | Happy Birthday | Happy Bithday | Requirement based |
 | L_04| Exit | Bye | Bye | Bye | Requirement based |
+
+- Output 
+![Output](https://github.com/Kalyanimaddhala/Stepin_Calendar/blob/74acbdb981b8f6813d7859894a9f79d9e3f70eab/5_Images/2021-09-07%20(18).png)
+
+- Output
+![Output](https://github.com/Kalyanimaddhala/Stepin_Calendar/blob/74acbdb981b8f6813d7859894a9f79d9e3f70eab/5_Images/2021-09-07%20(19).png)
+
+- Output
+![Output](https://github.com/Kalyanimaddhala/Stepin_Calendar/blob/74acbdb981b8f6813d7859894a9f79d9e3f70eab/5_Images/2021-09-07%20(20).png)
+
+- Output
+![Output](https://github.com/Kalyanimaddhala/Stepin_Calendar/blob/74acbdb981b8f6813d7859894a9f79d9e3f70eab/5_Images/output4.png)
