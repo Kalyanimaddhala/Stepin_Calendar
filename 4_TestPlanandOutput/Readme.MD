@@ -9,7 +9,7 @@
 ## Low level Test Plan 
 | Test ID | Description | Exp I/p | Exp O/P | Actual O/P | Type of Test |
 | :--: | :---: | :---: | :---: | :---: | :---: |
-| L_01 | Find a day | 18-05-2000 | | Thursday | Thursday | Requirement based |
+| L_01 | Find a day | 18-05-2000 | Thursday | Thursday | Thursday | Requirement based |
 | L_02 | Calendar of a month | 05 2021 | may | may | Requirement based |
 | L_03 | Add note | 18-05-1997 | Happy Birthday | Happy Bithday | Requirement based |
 | L_04| Exit | Bye | Bye | Bye | Requirement based |

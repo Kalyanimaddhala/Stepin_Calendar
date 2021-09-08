@@ -1,2 +1,2 @@
 # Stepin_Calender
-![code quality score](https://www.code-inspector.com/project/27743/score/svg) ![code quality score](https://www.code-inspector.com/project/27743/status/svg)
+![code quality score](https://www.code-inspector.com/project/27743/score/svg) ![code quality score](https://www.code-inspector.com/project/27743/status/svg) ![cppcheck-action]([![cppcheck-action](https://github.com/AvinasH-5/Stepin_diarymanagementsystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AvinasH-5/Stepin_diarymanagementsystem/actions/workflows/c-cpp.yml))
